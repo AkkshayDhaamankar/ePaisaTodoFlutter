@@ -15,15 +15,31 @@ Features:-
 
 # SignIn/SignUp :- 
 
+![CreateTodoOpt](https://user-images.githubusercontent.com/25646373/94992419-8987fc80-05a7-11eb-8c5e-b64ebf757ae1.gif)
+
+![LogoutAndSigninOpt](https://user-images.githubusercontent.com/25646373/94992427-9ad10900-05a7-11eb-9858-797202a70f9d.gif)
 
 
+# Add, Update and Delete Todo :-
+
+![AddTodoOpt](https://user-images.githubusercontent.com/25646373/94992415-85f47580-05a7-11eb-9c01-893502065efc.gif)
+
+![DeleteTodo](https://user-images.githubusercontent.com/25646373/94992422-960c5500-05a7-11eb-9ef2-9828cd90e0a0.gif)
+
+![updateOpt](https://user-images.githubusercontent.com/25646373/94992432-a1f81700-05a7-11eb-8753-e99e248fdd90.gif)
 
 
-# Password Reset
+# Password Reset :-
+
+1. Password Reset GIF:-
+![PasswordResetOpt](https://user-images.githubusercontent.com/25646373/94992429-9dcbf980-05a7-11eb-8ff2-4530d52ea774.gif)
+
+2. Password Reset Mail:-
 ![Screenshot 1942-07-11 at 5 48 09 PM](https://user-images.githubusercontent.com/25646373/94991675-2778c880-05a2-11eb-96d1-e1a62c781166.png)
 
 
 # Firestore Structure :- 
+
 1. Users :-
 ![Screenshot 1942-07-11 at 5 39 01 PM](https://user-images.githubusercontent.com/25646373/94991664-20ea5100-05a2-11eb-80aa-1a771e63fade.png)
 
