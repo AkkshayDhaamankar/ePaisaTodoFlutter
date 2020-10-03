@@ -21,10 +21,15 @@ Features:-
 
 
 # Add, Update and Delete Todo :-
+1. Add Todo
 
 ![AddTodoOpt](https://user-images.githubusercontent.com/25646373/94992415-85f47580-05a7-11eb-9c01-893502065efc.gif)
 
+2. Delete Todo
+
 ![DeleteTodo](https://user-images.githubusercontent.com/25646373/94992422-960c5500-05a7-11eb-9ef2-9828cd90e0a0.gif)
+
+3. Update Todo
 
 ![updateOpt](https://user-images.githubusercontent.com/25646373/94992432-a1f81700-05a7-11eb-8753-e99e248fdd90.gif)
 
@@ -32,6 +37,7 @@ Features:-
 # Password Reset :-
 
 1. Password Reset GIF:-
+
 ![PasswordResetOpt](https://user-images.githubusercontent.com/25646373/94992429-9dcbf980-05a7-11eb-8ff2-4530d52ea774.gif)
 
 2. Password Reset Mail:-
