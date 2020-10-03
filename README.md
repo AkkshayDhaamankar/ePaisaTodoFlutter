@@ -1,8 +1,21 @@
-# epaisa_todo_app
+# ePaisa Todo Flutter Application
 
-A new Flutter project.
+Developed using :-
+1. Firestore, FirebaseAuth, FirebaseStorage.
+2. Bloc Pattern.
+3. Dependency Injection (GetIt).
+4. Clean Architecture.
 
-## Getting Started
+Features:-
+1. SignIn, SignUp, Logout and Password Reset.
+2. Add Todo.
+3. Update Todo(Can add new image or remove image too).
+4. Delete Todo.
+
+
+# SignIn/SignUp :- 
+
+
 
 
 
